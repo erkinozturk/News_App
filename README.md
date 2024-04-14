@@ -1,21 +1,21 @@
-# React_Native_News_App
-React Native ile kodlanmis minik bir haber uygulamasi
+# News App
+A tiny news application coded with React Native
 
 ![](img/Screenshot_Main.png)
 
 ## Installation
-Öncelikle projeyi clonelayın.
+First, clone the project.
 ```
-git clone https://github.com/erkinozturk/React_Native_News_App.git
+git clone https://github.com/erkinozturk/News_App.git
 ```
 
 
 ## Usage
-Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
+After cloning the project, open it in Visual Studio Code.
 
 Linux için:
 
 ```
-cd React_Native_News_App
+cd News_App
 code .
 ```
